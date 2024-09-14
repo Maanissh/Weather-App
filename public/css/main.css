@@ -1,0 +1,27 @@
+body{
+    background-color: #6A9C89;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #6A9C89;
+}
+
+#m-card{
+    background-color: #16423C;
+    color: #6A9C89;
+}
+
+.m-list{
+    background-color: #16423C;
+    color: #6A9C89;    
+}
+
+#links{
+    display: flex;
+    justify-content: space-between;
+}
+
+#links a{
+    color: #6A9C89;
+    text-decoration: none;
+}
